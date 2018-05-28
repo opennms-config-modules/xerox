@@ -1,4 +1,4 @@
-<events xmlns="http://xmlns.opennms.org/xsd/eventconf">
+<events xmlns="https://xmlns.opennms.org/xsd/eventconf">
     <!-- Start of Xerox Traps -->
     <!-- Start of Xerox MIB: XEROX-HOST-RESOURCES-EXT-MIB -->
     <event>
